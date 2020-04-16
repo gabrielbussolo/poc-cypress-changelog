@@ -1,0 +1,1 @@
+POC about send an email with new releases.
